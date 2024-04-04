@@ -20,7 +20,6 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <spring.cloud.version>2023.0.1</spring.cloud.version>
         <spring.boot.version>3.2.4</spring.boot.version>
-        <spring.security.version>6.2.3</spring.security.version>
     </properties>
 
     <dependencyManagement>
